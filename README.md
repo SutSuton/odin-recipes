@@ -1,0 +1,1 @@
+Recipe page for the HTML portion of the Odin fundamentals course. Doing this as revision as the syllabus has just changed.
