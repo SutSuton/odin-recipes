@@ -48,7 +48,10 @@ em {
 
 li,
 ul,
-ol {
+ol,
+li em,
+li strong,
+li a {
   background-color: #ffffa6;
 }
 
