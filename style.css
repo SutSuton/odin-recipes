@@ -1,6 +1,5 @@
 * {
   background-color: #ffff56;
-
 }
 
 h1 {
@@ -27,4 +26,32 @@ h1 {
 
 em {
   color: #00000080;
+}
+
+.ingredients {
+  background-color: blue;
+}
+
+.desc {
+  text-align: center;
+}
+
+.para {
+  background-color: #ffbe82;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 20px;
+}
+
+.para strong {
+  background-color:#ffbe82;
+}
+
+li,
+ul,
+ol {
+  background-color: #ffffa6;
+}
+
+.bullets {
+  text-decoration: none;
 }
