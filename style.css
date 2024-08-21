@@ -37,6 +37,10 @@ h1 {
   padding: 10px;
 }
 
+.recipe-link:hover {
+  background-color: #ff7080;
+}
+
 img {
   margin: auto;
 }
@@ -81,4 +85,16 @@ li a {
 
 .bullets {
   text-decoration: none;
+}
+
+h2,
+h3 {
+  margin: 20px;
+  margin-left: 50px;
+}
+
+.ing-list,
+.step-list {
+  margin: 30px;
+  margin-right: 100px;
 }
